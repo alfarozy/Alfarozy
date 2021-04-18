@@ -1,5 +1,5 @@
 # Hello World!
-Perkenalkan nama saya Muhammad Alfarozi saya sangat tertarik di bidang Web Developer.
+Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web Developer** khususnya di **Backend Developer**. Saya terbiasa bekerja pada lingkungan **Linux**.
 # Teknologi
 
 <table>
