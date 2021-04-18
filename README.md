@@ -1,5 +1,13 @@
 # Hello World!
 Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web Developer** khususnya di **Backend Developer**. Saya terbiasa bekerja pada lingkungan **Linux**.
+<br>
+
+<div align="center">
+  Follow Me
+  <a href="https://www.instagram.com/alfarozy_an" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/Alfarozy.A.n" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</div>
+
 # Teknologi
 
 <table>
@@ -56,11 +64,9 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
     </tr>
   </tbody>
 </table>
-<div align="center">
-<i>Follow me:</i><br>
-<a href="https://www.instagram.com/alfarozy_an" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/Alfarozy.A.n" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-</div>
+
+<br>
+<br>
 <br>
 <br>
 <div align="center">
