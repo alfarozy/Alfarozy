@@ -7,51 +7,51 @@
    <tr valign="top">
       <td width="25%" align="center">
         <span>Laravel</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/laravel.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/laravel.svg">
       </td>
       <td width="25%" align="center">
         <span>Codeigniter</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/codeigniter.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/codeigniter.svg">
       </td>
       <td width="25%" align="center">
         <span>Bootstrap</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/bootstrap.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap.svg">
       </td>
       <td width="25%" align="center">
         <span>Tailwind Css</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/tailwindcss-icon.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/tailwindcss-icon.svg">
       </td>
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/python.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/python.svg">
       </td>
       <td width="25%" align="center">
         <span>PHP</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/php.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/php.svg">
       </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/javascript.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/javascript.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Code Editor</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/laravel.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>OS</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/linux-tux.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
       </td>
       <td width="25%" align="center">
         <span>Figma</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/figma.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/figma.svg">
       </td>
       <td width="25%" align="center">
         <span>Alfarozy.id</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/src/alfarozy.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/alfarozy.svg">
       </td>
     </tr>
   </tbody>
