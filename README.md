@@ -1,5 +1,5 @@
-# Muhammad Alfarozi
-
+# Hello World!
+Perkenalkan nama saya Muhammad Alfarozi saya sangat tertarik di bidang Web Developer.
 # Teknologi
 
 <table>
@@ -61,9 +61,11 @@
 <a href="https://www.instagram.com/alfarozy_an" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Alfarozy.A.n" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
+<br>
+<br>
 <div align="center">
-
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Alfarozy-AN.visitor-badge)
 </div>  
 <br>
-##### Made with ❤️ by [Alfarozy AN](https://github.com/Alfarozy-AN)
+
