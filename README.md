@@ -20,10 +20,6 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/laravel.svg">
       </td>
       <td width="25%" align="center">
-        <span>Codeigniter</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/codeigniter.svg">
-      </td>
-      <td width="25%" align="center">
         <span>Bootstrap</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap.svg">
       </td>
@@ -31,21 +27,11 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
         <span>Tailwind Css</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/tailwindcss-icon.svg">
       </td>
-     </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/python.svg">
       </td>
-      <td width="25%" align="center">
-        <span>PHP</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/php.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/javascript.svg">
-      </td>
-    </tr>
+     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Code Editor</span><br><br>
@@ -58,10 +44,6 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
       <td width="25%" align="center">
         <span>Figma</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/figma.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Alfarozy.id</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/alfarozy.svg">
       </td>
     </tr>
   </tbody>
