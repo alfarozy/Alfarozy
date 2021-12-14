@@ -10,7 +10,7 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
 </div>
  
 
-# Teknologi
+# Teknologi & Skill
 
 <table>
   <tbody>
@@ -21,29 +21,33 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
       </td>
       <td width="25%" align="center">
         <span>Bootstrap</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/node-js.svg">
       </td>
       <td width="25%" align="center">
         <span>Tailwind Css</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/tailwindcss-icon.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/python.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/python.svg">
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>Code Editor</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>OS</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
+     <td width="25%" align="center">
+        <span>Bootstrap</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap-5-1.svg">
       </td>
       <td width="25%" align="center">
         <span>Figma</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/figma.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Code Editor</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>OS</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
       </td>
     </tr>
   </tbody>
@@ -53,9 +57,5 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
 <br>
 <br>
 <br>
-<div align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Alfarozy-AN.visitor-badge)
-</div>  
 <br>
 
