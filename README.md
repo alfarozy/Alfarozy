@@ -20,15 +20,15 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/laravel.svg">
       </td>
       <td width="25%" align="center">
-        <span>Bootstrap</span><br><br>
+        <span>Node JS</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/node-js.svg">
       </td>
       <td width="25%" align="center">
-        <span>Tailwind Css</span><br><br>
+        <span>Python</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span>GIT</span><br><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
