@@ -1,6 +1,14 @@
 # Hello World!
 Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web Developer** khususnya di **Backend Developer**. Saya terbiasa bekerja pada lingkungan **Linux**.
 <br>
+## About me
+
+- 👨🏻‍💻 I'm a Web Developer at BAIT Solution
+- 🎓 I'm student at pasundan university
+- 🌱 I’m currently learning Node js   
+- 🚀 2022 Goals: Learn DevOps, Docker & Express js
+- ⚡ Fun fact: I spend 6 hours every day for coding
+- 🌐 Know more about me https://alfarozy.id
 
 <div align="center">
   Follow Me 
@@ -10,7 +18,7 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
 </div>
  
 
-# Teknologi & Skill
+## Most Tehnology & Tool i used
 
 <table>
   <tbody>
