@@ -4,7 +4,7 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
 ## About me
 I'm a web developer who is passionate about Cyber Security, Web Technology, and open source, I am form Riau, indonesia.
 
-- 👨🏻‍💻 I'm currently Backend enginer at BAIT Solution
+- 👨🏻‍💻 I'm currently Software enginer at BAIT Solution
 - 🎓 I'm student at pasundan university
 - 🌱 I’m currently learning Node js   
 - 🚀 2022 Goals: Learn DevOps, Docker & Express js
