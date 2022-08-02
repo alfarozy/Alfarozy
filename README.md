@@ -24,37 +24,37 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 <table width="100%">
   <tbody>
    <tr valign="top">
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Laravel</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/laravel.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Go Lang</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/go.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Vue Js</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/vue.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>GIT</span><br><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
     <tr valign="top">
-     <td width="30%" align="center">
+     <td width="25%" align="center">
         <span>Bootstrap</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap-5-1.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Figma</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/figma.svg">
       </td>
-      <td width="30%" align="center">
+      <td width="25%" align="center">
         <span>Code Editor</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
       </td>
-       <td width="30%" align="center">
+       <td width="25%" align="center">
         <span>OS</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
       </td>
@@ -67,4 +67,8 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 <br>
 <br>
 <br>
+## Quotes
+```
+The Most Important thing is not what we know, but what can we Learn & Share
+```
 
