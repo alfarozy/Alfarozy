@@ -6,8 +6,8 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 
 - 👨🏻‍💻 I'm currently Software enginer at BAIT Solution
 - 🎓 I'm student at pasundan university
-- 🌱 I’m currently learning Node js   
-- 🚀 2022 Goals: Learn DevOps, Docker & Express js
+- 🌱 I’m currently learning Go Lang
+- 🚀 2022 Goals: Learn DevOps, Docker & Go Lang
 - ⚡ Fun fact: I spend 6 hours every day for coding
 - 🌐 Know more about me https://alfarozy.id
 
@@ -21,40 +21,40 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 
 ## Most Tehnology & Tool i used
 
-<table>
+<table width="100%">
   <tbody>
    <tr valign="top">
-      <td width="25%" align="center">
+      <td width="30%" align="center">
         <span>Laravel</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/laravel.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Node JS</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/node-js.svg">
+      <td width="30%" align="center">
+        <span>Go Lang</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/go.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Python</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/python.svg">
+      <td width="30%" align="center">
+        <span>Vue Js</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/vue.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="30%" align="center">
         <span>GIT</span><br><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
     <tr valign="top">
-     <td width="25%" align="center">
+     <td width="30%" align="center">
         <span>Bootstrap</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap-5-1.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="30%" align="center">
         <span>Figma</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/figma.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="30%" align="center">
         <span>Code Editor</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
       </td>
-       <td width="25%" align="center">
+       <td width="30%" align="center">
         <span>OS</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
       </td>
