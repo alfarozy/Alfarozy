@@ -12,12 +12,12 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 - 🌐 Know more about me https://alfarozy.id
 
 <div align="center">
-  Follow Me 
+  Follow Me
   <br>
-   <a href="https://www.instagram.com/alfarozy_an" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> 
+   <a href="https://www.instagram.com/alfarozy_an" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/Alfarozy.A.n" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
- 
+
 
 ## Most Tehnology & Tool i used
 
@@ -70,8 +70,7 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 ## Quotes
 
 <br>
->
-> The Most Important thing is not what we know, but what can we Learn & Share
->
+
+    The Most Important thing is not what we know, but what can we Learn & Share
 
 <br>
