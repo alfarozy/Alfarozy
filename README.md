@@ -66,9 +66,10 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 <br>
 <br>
 <br>
-<br>
 ## Quotes
-```
+<br>
+<br>
+```sh
 The Most Important thing is not what we know, but what can we Learn & Share
 ```
-
+<br>
