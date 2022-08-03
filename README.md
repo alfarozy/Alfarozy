@@ -37,7 +37,7 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/vue.svg">
       </td>
       <td width="25%" align="center">
-        <span>GIT</span><br><br><br>
+        <span>GIT</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/Git.svg">
       </td>
      </tr>
