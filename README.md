@@ -4,10 +4,10 @@ Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web
 ## About me
 I'm a web developer who is passionate about Cyber Security, Web Technology, and open source, I am form Riau, indonesia.
 
-- 👨🏻‍💻 I'm currently Software enginer at BAIT Solution
+- 👨🏻‍💻 I'm currently Software enginer at Cyber Army Indonesia
 - 🎓 I'm student at pasundan university
 - 🌱 I’m currently learning Go Lang
-- 🚀 2022 Goals: Learn DevOps, Docker & Go Lang
+- 🚀 2024 Goals: Learn DevOps, Docker, Go Lang, Clean Code & Unit Test
 - ⚡ Fun fact: I spend 6 hours every day for coding
 - 🌐 Know more about me https://alfarozy.id
 
