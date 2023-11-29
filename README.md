@@ -9,7 +9,7 @@ I'm a web developer who is passionate about Cyber Security, Web Technology, and 
 - 🌱 I’m currently learning Go Lang
 - 🚀 2024 Goals: Learn DevOps, Docker, Go Lang, Clean Code & Unit Test
 - ⚡ Fun fact: I spend 6 hours every day for coding
-- 🌐 Know more about me [https://s.id/1XrId]https://alfarozy.id
+- 🌐 Know more about me [https://s.id/1XrId]
 
 <div align="center">
   Follow Me
