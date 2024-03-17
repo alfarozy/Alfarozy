@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World!, I'm Alfarozy
 I am a <b>Software Engineer</b> with over 4 years of experience in Backend Development, With a focus on API development, I leverage Laravel and Golang to build applications. 
 In several projects I also as a <b>team leader</b> who have responsibility to manage the work and make the team achieve their own task and of course help them to growing their soft skills and thenical skills.
 <br>
@@ -10,15 +10,8 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
 - ⚡ Fun fact: I Star Wars fanboy 
 - 🌐 Know more about me [https://s.id/1XrId]
 
-<div align="center">
-  Follow Me
-  <br>
-   <a href="https://www.instagram.com/alfarozy_an" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/Alfarozy.A.n" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-</div>
 
-
-## Most Tehnology & Tool i used
+## My Tech Stack
 
 <table width="100%">
   <tbody>
@@ -66,7 +59,7 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
 <br>
 <br>
 
-## Quotes
+## For you
 
 <br>
 
