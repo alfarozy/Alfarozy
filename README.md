@@ -1,14 +1,13 @@
 # Hello World!
-Perkenalkan nama saya **Muhammad Alfarozi** saya sangat tertarik di bidang **Web Developer** khususnya di **Backend Developer**. Saya terbiasa bekerja pada lingkungan **Linux**.
+I am a <b>Software Engineer</b> with over 4 years of experience in Backend Development, With a focus on API development, I leverage Laravel and Golang to build applications. 
+In several projects I also as a <b>team leader</b> who have responsibility to manage the work and make the team achieve their own task and of course help them to growing their soft skills and thenical skills.
 <br>
-## About me
-I'm a web developer who is passionate about Cyber Security, Web Technology, and open source, I am form Riau, indonesia.
 
 - 👨🏻‍💻 I'm currently Software enginer at Cyber Army Indonesia
 - 🎓 I'm student at pasundan university
 - 🌱 I’m currently learning Go Lang
-- 🚀 2024 Goals: Learn DevOps, Docker, Go Lang, Clean Code & Unit Test
-- ⚡ Fun fact: I spend 6 hours every day for coding
+- 🚀 2024 Goals: Learn DevOps with GCP
+- ⚡ Fun fact: I Star Wars fanboy 
 - 🌐 Know more about me [https://s.id/1XrId]
 
 <div align="center">
