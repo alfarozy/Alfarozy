@@ -32,8 +32,8 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/go.svg">
       </td>
       <td width="25%" align="center">
-        <span>Vue Js</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/vue.svg">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/docker.webp">
       </td>
       <td width="25%" align="center">
         <span>GIT</span><br><br>
@@ -42,8 +42,8 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
      </tr>
     <tr valign="top">
      <td width="25%" align="center">
-        <span>Bootstrap</span><br><br>
-        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/bootstrap-5-1.svg">
+        <span>Postman</span><br><br>
+        <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/postman.svg">
       </td>
       <td width="25%" align="center">
         <span>Figma</span><br><br>
@@ -54,7 +54,7 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/visual-studio-code.svg">
       </td>
        <td width="25%" align="center">
-        <span>OS</span><br><br>
+        <span>Linux OS</span><br><br>
         <img height="64px" src="https://github.com/Alfarozy-AN/alfarozy.id/blob/main/src/linux-tux.svg">
       </td>
     </tr>
@@ -70,6 +70,6 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
 
 <br>
 
-    The Most Important thing is not what we know, but what can we Learn & Share
+    Build your own life or someone else will give you purpose
 
 <br>
