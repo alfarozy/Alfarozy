@@ -5,9 +5,9 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
 
 - 👨🏻‍💻 I'm currently Software enginer at Cyber Army Indonesia
 - 🎓 I'm student at pasundan university
-- 🌱 I’m currently learning Go Lang
+- 🌱 I’m currently learning Docker & Kubernetes
 - 🚀 2024 Goals: Learn DevOps with GCP
-- ⚡ Fun fact: I Star Wars fanboy 
+- ⚡ Fun fact: i'm a Star Wars fanboy 
 - 🌐 Know more about me [https://s.id/1XrId]
 
 
