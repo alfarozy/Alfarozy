@@ -9,7 +9,7 @@ In several projects I also as a <b>team leader</b> who have responsibility to ma
 - 🚀 2024 Goals: Learn DevOps with GCP
 - ⚡ Fun fact: i'm a Star Wars fanboy 
 - 🌐 Know more about me [https://s.id/1XrId]
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfarozy&label=Profile%20views&color=0e75b6&style=flat" alt="alfarozy" /> </p>
 
 ## My Tech Stack
 
