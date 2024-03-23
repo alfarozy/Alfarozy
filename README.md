@@ -1,6 +1,6 @@
 # Hello World!, I'm Alfarozy
 I am a <b>Software Engineer</b> with over 4 years of experience in Backend Development, With a focus on API development, I leverage Laravel and Golang to build applications. 
-In several projects I also as a <b>team leader</b> who have responsibility to manage the work and make the team achieve their own task and of course help them to growing their soft skills and thenical skills.
+In several projects I also as a <b>Team leader</b> who have responsibility to manage the project development and make the team achieve their own task and of course I'm making sure that application is in line with the Business requirements.
 <br>
 
 - 👨🏻‍💻 I'm currently Software enginer at Cyber Army Indonesia
