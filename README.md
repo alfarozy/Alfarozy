@@ -59,10 +59,10 @@ In several projects I also as a <b>Team leader</b> who have responsibility to ma
 <br>
 <br>
 
-## For you
+## Better Life, Greater Impact.
 
 <br>
 
-    Build your own life or someone else will give you purpose
+    Jadilah rahmat bagi semesta alam.
 
 <br>
