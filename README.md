@@ -1,14 +1,15 @@
 # Hello World!, I'm Alfarozy
-I am a <b>Software Engineer</b> with over 4 years of experience in Backend Development, With a focus on API development, I leverage Laravel and Golang to build applications. 
+I am a <b>Software Engineer</b> with over 5 years of experience in Backend Development, With a focus on API development, I leverage Laravel and Golang to build applications. 
 In several projects I also as a <b>Team leader</b> who have responsibility to manage the project development and make the team achieve their own task and of course I'm making sure that application is in line with the Business requirements.
 <br>
 
-- 👨🏻‍💻 I'm currently Software enginer at Cyber Army Indonesia
+- 👨🏻‍💻 I'm currently Software enginer at Tavio Digital Solution
 - 🎓 I'm student at pasundan university
 - 🌱 I’m currently learning Docker & Kubernetes
-- 🚀 2024 Goals: Learn DevOps with GCP
-- ⚡ Fun fact: i'm a Star Wars fanboy 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfarozy&label=Profile%20views&color=0e75b6&style=flat" alt="alfarozy" /> </p>
+- ⚡ Fun fact: i'm a Star Wars fanboy
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfarozy&label=Profile%20views&color=0e75b6&style=flat" alt="alfarozy" /> </p>
 
 ## My Tech Stack
 
